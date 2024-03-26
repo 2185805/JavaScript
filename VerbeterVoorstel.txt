@@ -1,0 +1,3 @@
+Verbetervoorstel: 
+
+Het CSS wat interactiever maken samen het JS. het ziet er nu nog heel basic uit. Omdat ik een beetje moest haasten heb ik daar geen attentie aan gegeven. Ik vind niet dat er iets speciaals is aan mijn Yahtzee. 
