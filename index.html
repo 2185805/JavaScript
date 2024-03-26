@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yahtzee spel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="container">
+    <div id="scorebord">
+        <div class="scoreblad">
+            <h2>Speler</h2>
+            <p onclick="kiesScore('ones')">Ones: <span id="ones"></span></p>
+            <p onclick="kiesScore('twos')">Twos: <span id="twos">-</span></p>
+            <p onclick="kiesScore('threes')">Threes: <span id="threes"></span></p>
+            <p onclick="kiesScore('fours')">Fours:<span id="fours"></span></p>
+            <p onclick="kiesScore('fives')">Fives: <span id="fives"></span></p>
+            <p onclick="kiesScore('sixes')">Sixes: <span id="sixes"></span></p>
+            <p onclick="kiesScore('ThreeOfAKind')">Three of a kind <span id="ThreeOfAKind"></span></p>
+            <p onclick="kiesScore('FourOfAKind')">Four of a Kind: <span id="FourOfAKind">-</span></p>
+            <p onclick="kiesScore('FullHouse')">Full House: <span id="FullHouse">-</span></p>
+            <p onclick="kiesScore('SmallStraight')">Small Straight: <span id="SmallStraight">-</span></p>
+            <p onclick="kiesScore('LargeStraight')">Large Straight: <span id="LargeStraight">-</span></p>
+            <p onclick="kiesScore('Chance')" >Chance: <span id="Chance">-</span></p>
+            <p onclick="kiesScore('Yahtzee')" >Yahtzee: <span id="Yahtzee">-</span></p>
+
+            <p>Totaal: <span id="totaalScore">-</span></p>
+        </div>
+        <div class="rollenover">
+            <p id="aantalWorpen"></p>
+            <h1>Yahtzee</h1>
+            <h2>Spelregels</h2>
+            <p>Vijf Dobbelstenen</p>
+            <p>3 Keer Werpen</p>
+            <p>Singleplayer</p>
+            <p> Yahtzee = 50 punten </p>
+        </div>
+    </div>
+    <div id="dobbelContainer">
+        <span class="dobbel" id="dobbel1"></span>
+        <span class="dobbel" id="dobbel2"></span>
+        <span class="dobbel" id="dobbel3"></span>
+        <span class="dobbel" id="dobbel4"></span>
+        <span class="dobbel" id="dobbel5"></span>
+    </div>
+    <button type="button" id="rollknop">Dobbellen</button>
+    </div>
+
+    <script src="scripts.js"></script>
+
+</body>
+</html>
