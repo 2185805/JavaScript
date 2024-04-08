@@ -1,5 +1,13 @@
-Reflectieverslag
+Reflectieverslag, javascript.
 
-Wat ging er goed: Functies gebruiken, het leek super complex voor me, ( is het ook ) . Maar met aantekeningen en w3sschools heb ik functies gebruikt waar ik nog nooit van gehoord had. Als voorbeeld parseint . Dat rond je getal af zonder decimalen. Heel handig voor Yahtzee .  En in het begin ging het vooral lekker vlot. dat zorgde voor een goed begin. Alleen later werd het wat lastiger. Vooral hulp vragen ging heel goed. Ik heb echt van heel veel mensen hulp gehad en ook na school in de bieb
+In het begin ging het sloom, ik probeerde veel dingen van youtube en google , ook het yahtzee van freecodecamp. Het ging lastig maar ik kreeg wel een paar simpele basis. 
 
-Wat beter kon was eerder begonnen, Ik ga eerlijk zijn ik ben een beetje laat begonnen en was daarom beetje in tijdsnood. Had ik dit verkomen had ik waarschijnlijk iets mooiers ingeleverd. Wat ook beter kon was meer werken op school . Ookal vind ik thuis werken fijner en heb ik dat ook gedaan heb ik niet zoveel gedaan op school . 
+Ik vond het freecodecamp opdrachten mij niet echt iets leren, ik heb veel youtube videos gekeken over JavaScript. Vooral van BroCode en zijn turtorials. Er zijn ook een hoop Yahtzee turtorials waar ik inspiratie van heb gehaald.
+Ik heb nadat het niet alleen lukt en ik en een beetje tijdsnood kwam samen met mijn broer gezeten ( hij heeft deze opleiding ook gedaan ) En samen aan mij currente Yahtzee gezeten en stap voor stap gemaakt. Ik snap wat we hebben gemaakt en heb het ook goed geleerd.
+
+We hebben ook ween paar functies gebruikt die ik nog niet kende bijvoorbeeld, daar heb ik research op gedaan en snap ik nu. dit werkte beter voor mij als dan FreeCodeCamp. Ookal heeft mijn code stukken die ik eerst niet snapte snap ik het nu wel en ik kan het ook toepassen weer andere functies.
+
+We hebben dit in 2 weken gemaakt, elk avond samen een kwartiertje gezeten, en dan daarna nog alleen goed alle code doorgenomen. Alleen lukte het niet. maar ik wou ook niet alles met AI bijvoorbeeld maken. Ik ben ook eerlijk erover. Ik heb veel aan AI gevragen en heb dit als een soort Google gebruikt. Voor mij werkte dit goed.
+
+Conclusie
+Het was lastig, maar uiteindelijk met het juiste hulp heb ik een af product wat ik uit mijn hoofd ken. en er veel van geleerd heb. 4/8/2024 ga ik het aftekenen!
