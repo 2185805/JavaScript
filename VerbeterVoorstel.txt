@@ -1,4 +1,6 @@
 Verbetervoorstel: 
 
-Het CSS wat interactiever maken samen het JS. Simpeler JS gebruiken en misschien meer optimized, ik denk dat ik wel dat goed heb gedaan maar ik heb ook mensen gezien die voor single player
-bijna de helft minder code hebben.
+Volgende keer zou ik graag het CSS zelf willen maken, ik heb dit nu door AI laten genereren. Het ziet er wel mooi uit maar het wel een soort zijgevoel omdat ik het niet zelf gemaakt heb en in 5 seconden heb laten generen.
+Ook zou ik graag meer fundamentelen willen weten eigenlijk, soms lijken de meest simpele dingen het lastig. Dit is waarschijnlijk omdat je veelst te hard denkt en niet terug denkt aan de basics.
+
+
