@@ -1,3 +1,4 @@
 Verbetervoorstel: 
 
-Het CSS wat interactiever maken samen het JS. het ziet er nu nog heel basic uit. Omdat ik een beetje moest haasten heb ik daar geen attentie aan gegeven. Ik vind niet dat er iets speciaals is aan mijn Yahtzee. 
+Het CSS wat interactiever maken samen het JS. Simpeler JS gebruiken en misschien meer optimized, ik denk dat ik wel dat goed heb gedaan maar ik heb ook mensen gezien die voor single player
+bijna de helft minder code hebben.
